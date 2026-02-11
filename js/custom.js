@@ -3,7 +3,7 @@
 
 
     $(window).on('load', function () {
-        $("#loader-wrapper").delay(3000).fadeOut("slow");
+        $("#loader-wrapper").delay(500).fadeOut("slow");
 
        
         });
