@@ -933,6 +933,8 @@
 
             .navbar-brand {
                 margin-right: 0px;
+                width: 245px;       
+                height: auto;   
             }
 
 
@@ -7431,6 +7433,7 @@
             }
 
             .pra-img-overlay a {
+
                 color: #ffad18;
             }
 
